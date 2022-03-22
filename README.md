@@ -1,2 +1,2 @@
-# miniscript.rs
+# Miniscript
 Miniscript for Bitcoin
